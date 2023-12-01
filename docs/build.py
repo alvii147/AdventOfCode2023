@@ -1,6 +1,7 @@
 import os
 
 
+ADVENT_YEAR = 2023
 SHIELDS_IO_BADGE_URL = 'https://img.shields.io/badge'
 PROGRESS_BAR_URL = 'https://progress-bar.dev'
 LANGUAGE_LOGOS = {
@@ -11,7 +12,7 @@ LANGUAGE_LOGOS = {
 LANGUAGE_FILENAMES = {
     'Go': 'main.go',
     'Python': 'main.py',
-    'Rust': 'main.rs',
+    'Rust': 'src/main.rs',
 }
 
 
@@ -42,13 +43,13 @@ def get_puzzles_info(dirnames):
 if __name__ == '__main__':
     with open('../README.md', 'w') as readme_file:
         readme_file.write('<p align="center">\n')
-        readme_file.write('<img alt="Advent of Code 2022 Logo" src="docs/img/logo.png" width=600 />\n')
+        readme_file.write(f'<img alt="Advent of Code {ADVENT_YEAR} Logo" src="docs/img/logo.png" width=600 />\n')
         readme_file.write('</p>\n\n')
-        readme_file.write('# Advent of Code 2022\n\n')
+        readme_file.write(f'# Advent of Code {ADVENT_YEAR}\n\n')
         readme_file.write(
             '[Advent of Code](https://adventofcode.com) is an Advent calendar of small programming puzzles '
             'for a variety of skill sets and skill levels that can be solved in any programming language you like. '
-            'This repository contains solutions to the 2022 Advent of Code calendar.\n\n'
+            f'This repository contains solutions to the {ADVENT_YEAR} Advent of Code calendar.\n\n'
         )
 
         puzzles_info = get_puzzles_info(os.listdir('../'))
@@ -62,7 +63,7 @@ if __name__ == '__main__':
         for day_num, puzzle_info in puzzles_info.items():
             puzzle_name, dirname = puzzle_info['name'], puzzle_info['dirname']
 
-            puzzle_link = f'[{puzzle_name}](https://adventofcode.com/2022/day/{day_num})'
+            puzzle_link = f'[{puzzle_name}](https://adventofcode.com/{ADVENT_YEAR}/day/{day_num})'
             languages = sorted([lang for lang in os.listdir(f'../{dirname}') if lang in LANGUAGE_LOGOS])
             language_badges = ' '.join([f'[![]({SHIELDS_IO_BADGE_URL}/{LANGUAGE_LOGOS[lang]})]({dirname}/{lang}/{LANGUAGE_FILENAMES[lang]})' for lang in languages])
 
