@@ -12,4 +12,4 @@ Completed **1** out of **25** advent day puzzles.
 
 Day | Puzzle | Solutions
 --- | --- | ---
-1 | [Trebuchet?!](https://adventofcode.com/2023/day/1) | [![](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=FFFFFF)](Day_1_Trebuchet?!/rust/src/main.rs)
+1 | [Trebuchet](https://adventofcode.com/2023/day/1) | [![](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=FFFFFF)](Day_1_Trebuchet/rust/src/main.rs)
