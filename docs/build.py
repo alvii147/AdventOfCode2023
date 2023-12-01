@@ -5,14 +5,14 @@ ADVENT_YEAR = 2023
 SHIELDS_IO_BADGE_URL = 'https://img.shields.io/badge'
 PROGRESS_BAR_URL = 'https://progress-bar.dev'
 LANGUAGE_LOGOS = {
-    'Go': 'go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF',
-    'Python': 'python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54',
-    'Rust': 'rust-000000?style=for-the-badge&logo=rust&logoColor=FFFFFF',
+    'go': 'go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF',
+    'python': 'python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54',
+    'rust': 'rust-000000?style=for-the-badge&logo=rust&logoColor=FFFFFF',
 }
 LANGUAGE_FILENAMES = {
-    'Go': 'main.go',
-    'Python': 'main.py',
-    'Rust': 'src/main.rs',
+    'go': 'main.go',
+    'python': 'main.py',
+    'rust': 'src/main.rs',
 }
 
 
