@@ -113,7 +113,6 @@ func main() {
 		}
 
 		calDigitsAndWordsSum += (firstDigitOrNumWord * 10) + lastDigitOrNumWord
-		fmt.Println(line, firstDigitOrNumWord, lastDigitOrNumWord, firstDigitIndex, lastDigitIndex, firstNumWordIdx, lastNumWordIdx)
 	}
 
 	fmt.Println(calDigitsSum)
