@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="Advent of Code 2023 Logo" src="docs/img/logo.png" width=600 />
+    <img alt="Advent of Code 2023 Logo" src="docs/img/logo.png" width=600 />
 </p>
 
 # Advent of Code 2023
@@ -12,5 +12,5 @@ Completed **2** out of **25** advent day puzzles.
 
 Day | Puzzle | Solutions
 --- | --- | ---
-1 | [Trebuchet](https://adventofcode.com/2023/day/1) | [![](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=FFFFFF)](Day_1_Trebuchet/rust/src/main.rs)
-2 | [Cube Conundrum](https://adventofcode.com/2023/day/2) | [![](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=FFFFFF)](Day_2_Cube_Conundrum/rust/src/main.rs)
+1 | [Trebuchet?!](https://adventofcode.com/2023/day/1) | [![](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=FFFFFF)](Day0x01/rust/src/main.rs)
+2 | [Cube Conundrum](https://adventofcode.com/2023/day/2) | [![](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=FFFFFF)](Day0x02/rust/src/main.rs)

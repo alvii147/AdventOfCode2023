@@ -1,0 +1,37 @@
+{
+    "description": "[Advent of Code](https://adventofcode.com) is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. This repository contains solutions to the {year} Advent of Code calendar.",
+    "languages": {
+        "go": {
+            "bgcolor": "00ADD8",
+            "fgcolor": "FFFFFF",
+            "file": "main.go"
+        },
+        "python": {
+            "bgcolor": "3670A0",
+            "fgcolor": "FFDD54",
+            "file": "main.py"
+        },
+        "rust": {
+            "bgcolor": "000000",
+            "fgcolor": "FFFFFF",
+            "file": "src/main.rs"
+        }
+    },
+    "logo": "docs/img/logo.png",
+    "logo_width": 600,
+    "progress_bar": "https://progress-bar.dev/{percent}",
+    "puzzles": [
+        {
+            "day": 1,
+            "title": "Trebuchet?!"
+        },
+        {
+            "day": 2,
+            "title": "Cube Conundrum"
+        }
+    ],
+    "readme": "README.md",
+    "shields_io_badge": "https://img.shields.io/badge/{language}-{bgcolor}?style=for-the-badge&logo={language}&logoColor={fgcolor}",
+    "title": "# Advent of Code {year}",
+    "year": 2023
+}
