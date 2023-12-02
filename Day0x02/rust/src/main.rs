@@ -109,9 +109,6 @@ fn game_power(line: &str) -> u32 {
                 .get(cube_color)
                 .expect("Should be able to look up cube color");
             fewest_counts_map.insert(cube_color, max(cube_count, fewest_cube_count));
-            // if cube_count > fewest_cube_count {
-            //     fewest_counts_map.insert(cube_color, cube_count);
-            // }
         }
     }
 
