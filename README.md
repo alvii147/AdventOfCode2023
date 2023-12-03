@@ -13,5 +13,5 @@ Completed **3** out of **25** advent day puzzles.
 Day | Puzzle | Solutions
 --- | --- | ---
 1 | [Trebuchet?!](https://adventofcode.com/2023/day/1) | [![](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF)](Day0x01/go/main.go) [![](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=FFFFFF)](Day0x01/rust/src/main.rs)
-2 | [Cube Conundrum](https://adventofcode.com/2023/day/2) | [![](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=FFFFFF)](Day0x02/rust/src/main.rs)
+2 | [Cube Conundrum](https://adventofcode.com/2023/day/2) | [![](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF)](Day0x02/go/main.go) [![](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=FFFFFF)](Day0x02/rust/src/main.rs)
 3 | [Gear Ratios](https://adventofcode.com/2023/day/3) | [![](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=FFFFFF)](Day0x03/rust/src/main.rs)
