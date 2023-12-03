@@ -87,6 +87,7 @@ func main() {
 	f, err := os.Open(filePath)
 	if err != nil {
 		fmt.Printf("failed to Open file %s: %v\n", filePath, err)
+		return
 	}
 
 	calDigitsSum := 0
