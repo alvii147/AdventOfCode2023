@@ -32,6 +32,10 @@
         {
             "day": 3,
             "title": "Gear Ratios"
+        },
+        {
+            "day": 4,
+            "title": "Scratchcards"
         }
     ],
     "readme": "README.md",
