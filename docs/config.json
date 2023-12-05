@@ -36,6 +36,10 @@
         {
             "day": 4,
             "title": "Scratchcards"
+        },
+        {
+            "day": 5,
+            "title": "If You Give A Seed A Fertilizer"
         }
     ],
     "readme": "README.md",
