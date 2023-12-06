@@ -31,7 +31,6 @@ fn quadratic(a: i64, b: i64, c: i64) -> Vec<f64> {
     return solutions;
 }
 
-#[derive(Debug)]
 struct Race {
     time: u64,
     distance: u64,
