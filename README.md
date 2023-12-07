@@ -6,9 +6,9 @@
 
 [Advent of Code](https://adventofcode.com) is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. This repository contains solutions to the 2023 Advent of Code calendar.
 
-Completed **6** out of **25** advent day puzzles.
+Completed **7** out of **25** advent day puzzles.
 
-![Progress Bar](https://progress-bar.dev/24)
+![Progress Bar](https://progress-bar.dev/28)
 
 Day | Puzzle | Solutions
 --- | --- | ---
@@ -18,3 +18,4 @@ Day | Puzzle | Solutions
 4 | [Scratchcards](https://adventofcode.com/2023/day/4) | [![](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=FFFFFF)](Day0x04/rust/src/main.rs)
 5 | [If You Give A Seed A Fertilizer](https://adventofcode.com/2023/day/5) | [![](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=FFFFFF)](Day0x05/rust/src/main.rs)
 6 | [Wait For It](https://adventofcode.com/2023/day/6) | [![](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=FFFFFF)](Day0x06/rust/src/main.rs)
+7 | [Camel Cards](https://adventofcode.com/2023/day/7) | [![](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=FFFFFF)](Day0x07/rust/src/main.rs)
