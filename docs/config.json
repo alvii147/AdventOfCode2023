@@ -52,6 +52,10 @@
         {
             "day": 8,
             "title": "Haunted Wasteland"
+        },
+        {
+            "day": 9,
+            "title": "Mirage Maintenance"
         }
     ],
     "readme": "README.md",
