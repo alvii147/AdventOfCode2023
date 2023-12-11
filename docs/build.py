@@ -75,7 +75,7 @@ if __name__ == '__main__':
 
         for puzzle in puzzles:
             puzzle_day = puzzle['day']
-            puzzle_dir = f'Day0x{puzzle_day:02x}'
+            puzzle_dir = f'Day0x{puzzle_day:02X}'
             puzzle_title = puzzle['title']
             puzzle_link = f'[{puzzle_title}](https://adventofcode.com/{year}/day/{puzzle_day})'
             file_key = 'file'
