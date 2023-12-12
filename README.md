@@ -6,9 +6,9 @@
 
 [Advent of Code](https://adventofcode.com) is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. This repository contains solutions to the 2023 Advent of Code calendar.
 
-Completed **10** out of **25** advent day puzzles.
+Completed **11** out of **25** advent day puzzles.
 
-![Progress Bar](https://progress-bar.dev/40)
+![Progress Bar](https://progress-bar.dev/44)
 
 Day | Puzzle | Solutions
 --- | --- | ---
@@ -22,3 +22,4 @@ Day | Puzzle | Solutions
 8 | [Haunted Wasteland](https://adventofcode.com/2023/day/8) | [![](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=FFFFFF)](Day0x08/rust/src/main.rs)
 9 | [Mirage Maintenance](https://adventofcode.com/2023/day/9) | [![](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=FFFFFF)](Day0x09/rust/src/main.rs)
 10 | [Pipe Maze](https://adventofcode.com/2023/day/10) | [![](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=FFFFFF)](Day0x0A/rust/src/main.rs)
+11 | [Cosmic Expansion](https://adventofcode.com/2023/day/11) | [![](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=FFFFFF)](Day0x0B/rust/src/main.rs)
